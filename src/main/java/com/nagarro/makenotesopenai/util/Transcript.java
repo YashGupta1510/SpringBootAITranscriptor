@@ -27,7 +27,7 @@ public class Transcript {
     public final static long MAX_ALLOWED_SIZE = 25 * 1024 * 1024;
     public final static long MAX_CHUNK_SIZE_BYTES = 20 * 1024 * 1024;
 
-    private final static String KEY = "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"; 
+    private final static String KEY = "OPENAI-API-KEY"; 
     
     private final static String MODEL= "whisper-1";
     
